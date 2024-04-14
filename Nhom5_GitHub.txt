@@ -1,1 +1,16 @@
 Vo Hoang Dung | Nguyen Thi Dieu Hang | Ho Trung Thai | Nguyen Viet Anh | Vo Duy Thien
+Giai đoạn 1:
+Tạo dự ấn
+Mời vào repository
+Up commit đầu tiên 
+CHụp hình fork của một thanhf viên 
+Chia branch
+Giao đoạn 2: Giai đoạn phát triền
+CHeckout branch
+add file + commit
+add . + commit
+Giai đoạn 3: Merge + Pull request
+Giai đoạn 4: Giải quyết xung đột 
+Thành côcng
+XUngd đột
+Merge
