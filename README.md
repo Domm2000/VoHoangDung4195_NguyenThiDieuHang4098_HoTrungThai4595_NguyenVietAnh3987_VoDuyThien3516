@@ -4,7 +4,7 @@
 ## Cài đặt
 - Để cài đặt và chạy ứng dụng, bạn cần có Docker và Docker Compose.
 - Clone repository về máy của bạn: git clone https://github.com/Solomon1009/com.Nhom5_GitHub.git
-- Di chuyển vào thư mục của dự án: cd food-search-app
+- Di chuyển vào thư mục của dự án: cd website-tra-cuu-mon-an
 - Chạy Docker Compose để bắt đầu dự án: docker-compose up
 
 ## Công nghệ
@@ -16,6 +16,8 @@ Dự án được xây dựng bằng các công nghệ sau:
 - Docker: Sử dụng Docker để đóng gói ứng dụng và các môi trường thử nghiệm.
 - JIRA: Sử dụng JIRA để quản lý dự án và theo dõi công việc.
 - GitHub: Sử dụng GitHub để quản lý mã nguồn và hợp tác với các thành viên khác.
+- Figma: Sử dụng Figma để thiết kế và chia sẻ các giao diện người dùng.
+- AWS: Sử dụng AWS (Amazon Web Services) để triển khai và quản lý hệ thống.
 
 ## Quản lý Dự án
 Dự án được quản lý bằng JIRA. Bạn có thể tìm hiểu thêm về trạng thái và tiến độ công việc tại: https://tiptipcore.atlassian.net/jira/software/projects/ANH1/boards/3/timeline
