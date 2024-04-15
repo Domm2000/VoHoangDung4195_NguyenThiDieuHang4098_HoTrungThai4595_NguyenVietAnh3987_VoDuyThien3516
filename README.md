@@ -1,4 +1,4 @@
-## Hệ thống Tra cứu Món Ăn
+# Hệ thống Tra Cứu Món Ăn
 - Hệ thống Tra cứu Món Ăn là một dự án mã nguồn mở nhằm tạo ra một ứng dụng web cho phép người dùng tìm kiếm thông tin về các món ăn.
 
 ## Cài đặt
