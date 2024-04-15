@@ -34,3 +34,10 @@ Nếu bạn muốn đóng góp vào dự án, vui lòng làm theo các bước s
 - Link jira: https://tiptipcore.atlassian.net/jira/software/projects/ANH1/boards/3/timeline
 - Link figma: https://www.figma.com/file/p4dhWvUhtlE7ZMRvTu8D5b/Untitled?type=design&node-id=0%3A1&mode=design&t=fI1KOOPyNTKGUq4S-1
 - Link aws: http://cloudchipchipdemo.s3-website-ap-southeast-1.amazonaws.com/
+## Hình ảnh sản phẩm 
+- Trang chủ
+- ![image](https://github.com/Domm2000/VoHoangDung4195_NguyenThiDieuHang4098_HoTrungThai4595_NguyenVietAnh3987_VoDuyThien3516/assets/162945716/5801d036-0122-42e0-92a5-8d51d443ffc7)
+- Đăng nhập 
+- ![image](https://github.com/Domm2000/VoHoangDung4195_NguyenThiDieuHang4098_HoTrungThai4595_NguyenVietAnh3987_VoDuyThien3516/assets/162945716/5da496af-5429-44f3-ba0f-2d2cd29acd4d)
+- Tìm kiếm
+- ![image](https://github.com/Domm2000/VoHoangDung4195_NguyenThiDieuHang4098_HoTrungThai4595_NguyenVietAnh3987_VoDuyThien3516/assets/162945716/e856a5e2-d5f4-48db-ad2a-10238b6ad316)
